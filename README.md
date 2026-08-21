@@ -50,16 +50,6 @@ if (spacePressed) gameManager.playerShoot();
 - **Objective:** Destroy all enemies to advance to the next wave. 
 - **Defeat Conditions:** The game is over if your lives drop to zero, or if any enemy reaches the bottom of the screen.
 
-## How to Run Locally
-
-1. Clone this repository to your local machine:
-   ```bash
-   git clone https://github.com/YourUsername/Mini-Space-Invaders.git
-   ```
-2. Open the project in Eclipse (or any other Java IDE).
-3. Ensure the files are under a package named `game`.
-4. Locate `Main.java`, right-click on it, and select **Run As > Java Application**.
-
 ## Screenshots
 
 <p align="center">
